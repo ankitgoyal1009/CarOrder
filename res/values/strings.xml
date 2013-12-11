@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Car Order</string>
+    <string name="action_order">New Order</string>
+    <string name="action_refresh">Retry</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="placed_order"> Placed Order</string>
+    <string name="pending_order"> Pending Order</string>
+    <string name="new_order">New Order</string>
+
+</resources>
